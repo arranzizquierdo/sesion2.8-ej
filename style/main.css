@@ -9,6 +9,7 @@
     top: 50%;
     transform: translate(-50%, -50%);
     border-radius: 50%;
+    cursor: pointer;
   }
   .face {
     font-family: 'courier new', serif;
